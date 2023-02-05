@@ -2,7 +2,7 @@
 
 I am **Ajay Kumar Pondugala, currently a Prefinal Year UnderGrad in **CSE** at [GVPCE](https://www.gvpce.ac.in/). I am a ***FrontEnd Developer***. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-ajay-kumar-pondugala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajay-kumar-pondugala/)](https://www.linkedin.com/in/ajay-kumar-pondugala/)
+
 
 [![Gmail Badge](https://img.shields.io/badge/-ajaykumar.rob27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ajaykumar.rob27@gmail.com)](mailto:ajaykumar.rob27@gmail.com)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/sherlock__x7.svg?style=social&label=Follow%20%40sherlock__x7)](https://twitter.com/sherlock__x7)
