@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **Ajay Kumar Pondugala, currently a Prefinal Year UnderGrad in **CSE** at [GVPCE](https://www.gvpce.ac.in/). I am a ***FrontEnd Developer***. Find out more about me & feel free to connect with me here:
+I am ***Ajay Kumar Pondugala***, currently a Prefinal Year UnderGrad in **CSE** at [GVPCE](https://www.gvpce.ac.in/). I am a ***FrontEnd Developer***. Find out more about me & feel free to connect with me here:
 
 
 
