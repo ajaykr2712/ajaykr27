@@ -1,31 +1,33 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ajay Kumar Pondugala</h1>
+<h3 align="center">Currently a Final Year UnderGrad in CSE at @GVPCE. A Passionate Front End Developer</h3>
 
-I am ***Ajay Kumar Pondugala***, currently a Prefinal Year UnderGrad in **CSE** at [GVPCE](https://www.gvpce.ac.in/). I am a ***FrontEnd Developer***. Find out more about me & feel free to connect with me here:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaykr2712&label=Profile%20views&color=0e75b6&style=flat" alt="ajaykr2712" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaykr2712" alt="ajaykr2712" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-[![Gmail Badge](https://img.shields.io/badge/-ajaykumar.rob27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ajaykumar.rob27@gmail.com)](mailto:ajaykumar.rob27@gmail.com)
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/sherlock__x7.svg?style=social&label=Follow%20%40sherlock__x7)](https://twitter.com/sherlock__x7)
+- 🌱 I’m currently learning **Advanced Network Switching and State Routing**
 
+- 💬 Ask me about **Block Chain,Computer Networks**
 
-## ⚡ Technologies
+- 📫 How to reach me **johnny25920@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xAdHQi1HnZZwYqsl03sHXMR30Lsb2DJy/view?usp=sharing](https://drive.google.com/file/d/1xAdHQi1HnZZwYqsl03sHXMR30Lsb2DJy/view?usp=sharing)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/https://codepen.io/settings/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/settings/profile" height="30" width="40" /></a>
+<a href="https://dev.to/ajaykr2712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ajaykr2712" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/ajay-kumar-pondugala-3b3b711b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ajay-kumar-pondugala-3b3b711b8" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/ajaykr2712/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ajaykr2712/" height="30" width="40" /></a>
+</p>
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaykr2712&show_icons=true&locale=en&layout=compact" alt="ajaykr2712" /></p>
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaykr2712&show_icons=true&locale=en" alt="ajaykr2712" /></p>
 
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ajaykr2712&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaykr2712&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ajaykr2712.ajay2712)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaykr2712&" alt="ajaykr2712" /></p>
