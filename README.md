@@ -1,5 +1,5 @@
-_<h1 align="center">Hi 👋, I'm Ajay Kumar Pondugala</h1>
-<h3 align="center">Currently a Technical Intern at <a href="https://www.cisco.com">CISCO💙</a>. A Passionate Full Stack Developer,AI-ML Enthusiast </h3>
+![image](https://github.com/ajaykr2712/ajaykr27/assets/112938234/30f20984-7dea-43f3-ae40-73c4469fa863)_<h1 align="center">Heyyy There!!!!👋, I'm Ajay Kumar Pondugala ✨</h1>
+<h3 align="center">Currently a Technical Intern at <a href="https://www.cisco.com">CISCO💙</a>. A Passionate Full Stack Developer 👨🏼‍💻, AI-ML Enthusiast 🤖 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaykr2712&label=Profile%20views&color=0e75b6&style=flat" alt="ajaykr2712" /> </p>
 
@@ -7,13 +7,13 @@ _<h1 align="center">Hi 👋, I'm Ajay Kumar Pondugala</h1>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Generative AI, Switching State Routing,**
+- 🌱 I’m currently learning 🧠 **Generative AI, Switching State Routing,**
 
-- 💬 Ask me about **Block Chain,Computer Networks,Artificial Intelligence**
+- 💬 Ask me about 🔗‍💥**Block Chain,Computer Networks,Artificial Intelligence**
 
-- 📫 How to reach me **johnny25920@gmail.com**
+- 📫 How to reach me 📩**johnny25920@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1vPnHn0_xCBqyA1-5uW_mqZpKu_GiM0iT/view?usp=sharing)
+- 📄 Know about my experiences 📝 [RESUME](https://drive.google.com/file/d/1vPnHn0_xCBqyA1-5uW_mqZpKu_GiM0iT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
