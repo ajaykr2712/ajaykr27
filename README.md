@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay Kumar Pondugala</h1>
-<h3 align="center">Currently a Technical Intern at  @Cisco. A Passionate Front End Developer</h3>
+<h3 align="center">Currently a Technical Intern at  [CISCO](https://www.cisco.com/). A Passionate Front End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaykr2712&label=Profile%20views&color=0e75b6&style=flat" alt="ajaykr2712" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **johnny25920@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vPnHn0_xCBqyA1-5uW_mqZpKu_GiM0iT/view?usp=sharing](https://drive.google.com/file/d/1vPnHn0_xCBqyA1-5uW_mqZpKu_GiM0iT/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1vPnHn0_xCBqyA1-5uW_mqZpKu_GiM0iT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
