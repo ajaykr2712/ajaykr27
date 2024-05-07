@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Advanced Network Switching and State Routing**
+- 🌱 I’m currently learning **Generative AI, Switching State Routing,**
 
-- 💬 Ask me about **Block Chain,Computer Networks**
+- 💬 Ask me about **Block Chain,Computer Networks,Artificial Intelligence**
 
 - 📫 How to reach me **johnny25920@gmail.com**
 
