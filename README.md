@@ -1,5 +1,5 @@
 <h1 align="center">Heyyy There!!!!👋, I'm Ajay Kumar Pondugala ✨</h1>
-<h3 align="center">Currently a Technical Intern at <a href="https://www.cisco.com">CISCO💙</a>. A Passionate Full Stack Developer 👨🏼‍💻, AI-ML Enthusiast 🤖 </h3>
+<h3 align="center">ENGINEER at <a href="https://www.cisco.com">CISCO💙</a>. A Passionate Full Stack Developer 👨🏼‍💻, AI-ML Enthusiast 🤖 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaykr2712&label=Profile%20views&color=0e75b6&style=flat" alt="ajaykr2712" /> </p>
 
