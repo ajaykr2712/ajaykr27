@@ -32,3 +32,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaykr2712&" alt="ajaykr2712" /></p>
 _
+
+
+<h1 align="center">2025 it is....!!!!👋✨</h1>
