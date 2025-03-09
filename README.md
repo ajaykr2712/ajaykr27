@@ -65,21 +65,12 @@ I’m a dedicated Full Stack Developer and Engineer at Cisco, with a passion for
 
 ---
 
-## 🌟 Featured Projects
 
-| Project Name          | Description                                   | Tech Stack                                      |
-|-----------------------|-----------------------------------------------|------------------------------------------------|
-| [Project 1](link)     | A brief description of your first project.    | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) |
-| [Project 2](link)     | A brief description of your second project.   | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) |
-
-*Note: Replace "Project 1", "Project 2", and "link" with your actual project names and URLs.*
-
----
 
 ## 📬 Connect with Me
 
 <p align="center">
-  <a href="https://codepen.io/your_codepen"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" /></a>
+  
   <a href="https://dev.to/ajaykr2712"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/ajay-kumar-pondugala-3b3b711b8"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://leetcode.com/ajaykr2712/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
