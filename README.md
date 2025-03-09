@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ajaykr2712&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://twitter.com/your_twitter_handle"><img src="https://img.shields.io/twitter/follow/your_twitter_handle?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a>
+  <a href="https://twitter.com/robstern007"><img src="https://img.shields.io/twitter/follow/robstern007?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a>
 </p>
 
 ---
